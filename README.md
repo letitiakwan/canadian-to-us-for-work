@@ -1,4 +1,4 @@
-# Canadian to US for work guide
+# Guide: Canadian to US for work
 
 ## TN Visa process:
 
