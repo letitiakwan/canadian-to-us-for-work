@@ -2,9 +2,9 @@
 
 ## TN Visa process:
 
-| Request for Early Release | Received diploma:  | Uploaded to visa portal:  | Received TN:  |
+| Request for Early Release | Received diploma and uploaded to visa portal:  | Drafting started:  | Received TN:  |
 |---|---|---|---|
-| 05/05/22 |  |  |  |
+| 05/05/22 | 05/31/22 |  |  |
 
 
 
