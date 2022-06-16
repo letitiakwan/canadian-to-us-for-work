@@ -2,9 +2,9 @@
 
 ## TN Visa process:
 
-| Requested diploma for Early Release | Received diploma and uploaded to visa portal:  | TN petition filed with USCIS (under premium processing)| Received TN:  |
+| Requested diploma for Early Release | Received diploma and uploaded to visa portal:  | TN petition filed with USCIS (under premium processing)| Received TN receipt notice from USCIS:  |
 |---|---|---|---|
-| 05/05/22 | 05/31/22 | 06/14/22 |  |
+| 05/05/22 | 05/31/22 | 06/14/22 | 06/16/22 |
 
 
 
