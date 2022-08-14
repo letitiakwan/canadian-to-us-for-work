@@ -69,5 +69,3 @@ It is so extremely helfpul to have a US$ credit card. because:
 - You can get Amazon Prime US!
    - This is so helpful for getting furniture, even groceries if your location has Amazon Fresh
 
-test
-
