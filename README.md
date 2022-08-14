@@ -58,7 +58,7 @@ Apple Cash:
 
 ## Investing:
 401k:
-- With Microsoft, we have Fidelity, and we need our SSN first to set it up. 
+- With Microsoft, we use Fidelity, and we need our SSN first to set it up. 
 
 # Highly recommended tips:
 ## Get a US dollar credit card before coming to the States
