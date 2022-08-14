@@ -62,11 +62,12 @@ Apple Cash:
 - With Microsoft, we use Fidelity, and we need our SSN first to set it up. 
 
 # Highly recommended tips:
-## Get a US dollar credit card before coming to the States
+## Get a US dollar credit card before coming to the States, or bring some US$ cash
 It is so extremely helfpul to have a US$ credit card. because:
 - You might not receive your first paycheck until a while. 
    - My first paycheck is scheduled for almost one month after my entry date. 
    - You'll inevitably need to make purchases to settle down, and having a US$ credit card will help you avoid costly foreign transaction fees
 - You can get Amazon Prime US!
    - This is so helpful for getting furniture, even groceries if your location has Amazon Fresh
+- Caveat: Some people might not want to open a credit card in Canada, because eventually you may want to close all your Canadian accounts for tax reasons. 
 
