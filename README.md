@@ -1,9 +1,11 @@
-# Guide: Canadian to US for work
+# Guide: Moving from Canada to the United States for work
 This is meant as a README for for Canadians going to work in the States on a TN visa.
 
 Included are tips on on border entry, visa timelines, bank accounts etc. 
 
 It can be so confusing to move countries! You're not alone! Reach out if you have more questions. 
+
+Also, please contribute if you have more tips. 
 
 # TN Visa timeline:
 This was how my timeline with Microsoft was: 
