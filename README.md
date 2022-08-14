@@ -35,7 +35,8 @@ The TN approval notice you get in the mail isn't actually a TN Visa. You need to
 Having a US phone number quickly can let you set up Venmo, and pay less for roaming. 
 
 Popular carriers: AT&T or T mobile
-- I got a prepaid plan for one month at T-mobile. Super fast, walk into any T Mobile store
+- You need an SSN if you don't want to get a prepaid plan. This might take longer. 
+- I got a prepaid plan for one month at T-mobile. Super fast, walk into any T Mobile store. Didn't need an SSN and had a phone number right away
    - $15 for 3 GB, unlimited call / text in the States. Also cost $10 for the new SIM card
 
 ## Set up a bank account and get a debit and credit card:
