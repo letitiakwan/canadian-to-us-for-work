@@ -15,7 +15,7 @@ This was how my timeline with Microsoft was:
 | 05/05/22 | 05/31/22 | 06/14/22 | 06/16/22 | 06/24/22 | 07/07/22 | 07/13/22
 
 # Entering the States
-The TN approval notice you get in the mail isn't actually a TN Visa. You need to get a valid Form I-94, and this is the important document that dictactes your non-immigrant status. At the border, you'll generate your Form I-94. 
+The TN approval notice you get in the mail isn't actually a valid visa. You need to get a valid Form I-94, and this is the important document that dictactes your non-immigrant status. At the border, you'll generate your Form I-94. 
 - Go to any U.S. port of entry, provide your TN approval and passport (you might need your diploma and offer letter as well - they might check that you're entering no earlier than 10 days before the start date on your offer letter). Check the website for an official list. 
 - The official will generate a For I-94 for you. 
 - A few hours later (up to 24 hours I believe), you can get your Form I-94 by going to the offical [I94 website](https://i94.cbp.dhs.gov/I94/), and downloading your most recent I94.
